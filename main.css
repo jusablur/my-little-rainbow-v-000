@@ -33,7 +33,8 @@ div {
 #violet { /* this selects any elements with the violet id */
   border-top-color: #d300c9;
 }
- /* <div id = "red">
+ /* html code
+ <div id = "red">
    <div id = "orange">
      <div id = "yellow">
        <div id = "green">
